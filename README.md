@@ -1,3 +1,1 @@
 # OptikStockSoftware
-
-Deneme
